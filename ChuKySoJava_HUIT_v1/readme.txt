@@ -1,0 +1,1 @@
+ver1 này có thể chạy riêng từng form.
